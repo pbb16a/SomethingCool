@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Something Cool</string>
+    <string name="textInstructions">Pop the bubble 20 times!</string>
+</resources>
